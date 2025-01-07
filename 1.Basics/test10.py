@@ -1,0 +1,5 @@
+print('hello',end=' ')
+print('test',end=';')
+print(123,end=',')
+print(2.4,end='=')
+print('end',end='.')

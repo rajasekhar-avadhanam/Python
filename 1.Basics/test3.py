@@ -1,0 +1,5 @@
+print(100000)
+print(234) 
+print(-1000)
+print(22)
+print(-1)
