@@ -1,0 +1,4 @@
+x = [10,3.5,'abc',True,300,4.5,'xyz',False]
+print(x)
+y =x.copy()
+print(y)
